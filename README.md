@@ -2,7 +2,6 @@
 
 # Task Description:
 The main objective of this task was to perform data cleaning and exploratory data analysis to gain insights into the Titanic dataset. This involved handling missing values and exploring relationships between variables to identify patterns and trends in the data.
-Here's a rephrased version:
 
 # Key Findings:
 - Cleaned and preprocessed the Titanic dataset to address missing values and duplicates, ensuring data quality and reliability.
