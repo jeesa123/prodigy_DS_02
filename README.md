@@ -1,1 +1,3 @@
-![WhatsApp Image 2025-06-26 at 11 20 52_775efd3e](https://github.com/user-attachments/assets/2def1654-94de-4f3a-9129-2dcca82af1c2)
+![image](https://github.com/user-attachments/assets/498b19c0-9904-4851-ae8c-f2afef7c5034)
+*Task Description*
+The main objective of this task was to perform data cleaning and exploratory data analysis to gain insights into the Titanic dataset. This involved handling missing values and exploring relationships between variables to identify patterns and trends in the data.
